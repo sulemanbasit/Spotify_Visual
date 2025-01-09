@@ -14,7 +14,7 @@ Explore and Analyse the Spotify's 2024 Song list and provide insight using Excel
 - Extracted tracks with 1 or more best performance on a metric for further analysis.
 - Created Pivot Charts to find the following:
 -   Top 10 Artist with most songs on chart based on their best rankings
--     Top 10 Artist songs categorized in explicit and non-explicit and showcase their average track score
+-   Top 10 Artist songs categorized in explicit and non-explicit and showcase their average track score
 -   Top 10 Countries where songs were produced
 -   Explicit and Non-Explicit songs split in metrics
 -   Explicit and Non-Explicit songs split in rankings and track score
